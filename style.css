@@ -35,7 +35,7 @@
   }
   .inside {
     background: linear-gradient(to right, #e7e7e7, #ffffff 30%);
-    line-height: 1.5cm;
+    line-height: 1.5;
     padding: 0 20px;
     text-align: center;
     display: flex;
