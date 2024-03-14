@@ -41,6 +41,7 @@
     display: flex;
     flex-direction: column;
     font-size: xx-small;
+    justify-content: space-around;
     align-items: center;
     left: 50%;
   }
